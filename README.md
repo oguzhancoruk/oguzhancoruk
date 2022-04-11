@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on react.JS
 - 🌱 I’m currently learning node.js
--
 
-- 📫 How to reach me: ![Mail](oguzcoruk6161@gmaik.com)
+- 📫 How to reach me: ![Mail](oguzcoruk6161@gmail.com)
 
 
